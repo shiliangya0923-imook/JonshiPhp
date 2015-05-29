@@ -1,2 +1,3 @@
 <?php
-echo 'woshishouye';
+
+echo '我是首页';
